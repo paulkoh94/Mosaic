@@ -1,0 +1,7 @@
+Dragon Wars
+
+This project was for one of my earlier object oriented programming classes.
+The goal of the project was to create a turn based text-based game.
+
+The Dragon.h file contains our Dragon class, and the Game.h file contains our Game class.
+The main.cpp file starts the game using a Game object, which loads all of the dragons from the dragon_data.txt file.

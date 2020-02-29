@@ -1,0 +1,12 @@
+Disaster Track
+
+This project was a group project for my software engineering class during my last semester.
+The goal of the project was to create an executable software for a "Disaster Relief Company".
+
+The functionalities required for the software were:
+-A call center page where the call center staff could enter data about a reported incident
+-A mission assignment page where the Mission Responder chief could assign a reported mission to a responder/volunteer
+-A mission view page where an employee could view his/her assigned missions
+-Authentication so a logged in employee can ony access pages that he/she is authorized to access
+
+We used the tKinter Python package for the front end GUI and AWS to host our remote MySQL Server.
